@@ -4,7 +4,7 @@ import http.client
 import json
 import socket
 
-API_KEY = os.getenv("HASDATA_API_KEY")
+API_KEY = os.getenv("f9f4949f-9179-4f4f-ba14-bfb64098245c")
 API_HOST = "api.hasdata.com"
 
 
